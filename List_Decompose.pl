@@ -1,0 +1,1 @@
+decompose([H|T], H, T).
